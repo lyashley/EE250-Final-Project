@@ -1,0 +1,7 @@
+id: DG1670AA2-5G
+pw: DG1670AEA27A2
+
+id: ee-250-2.4ghz
+pw:ee250@vhe205
+
+id: USC Guest Wireless
